@@ -23,7 +23,7 @@ Data visualization (gglplot2)
   as:
   - Bar charts of prevalence by group
   - Simple comparisons between categorical variables
-- This visualisations focus on clarity and commuication rather than advanced
+- This visualisations focus on clarity and communication rather than advanced
     customization
 
 Note: All data used are simulated or anonymized for learning and demonstration purposes. Analyses demonstrated include reliability testing, prevalence estimation, chi-square tests, and logistic regression.
