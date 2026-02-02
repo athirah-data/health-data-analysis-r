@@ -8,7 +8,7 @@ Tools & packages used:
 - dplyr – data cleaning, transformation, and summarisation
 - ggplot2 – basic data visualisation
 - psych - reliability analysis
-- stats = inferential analyses
+- stats - inferential analyses
 
 Analyses Included
 - Data cleaning and preparation
