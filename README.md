@@ -8,4 +8,4 @@ Tools used:
 - dplyr
 - ggplot2
 
-Note: All data used are simulated or anonymized for learning and demonstration purposes.
+Note: All data used are simulated or anonymized for learning and demonstration purposes. Analyses demonstrated include reliability testing, prevalence estimation, chi-square tests, and logistic regression.
